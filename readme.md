@@ -55,6 +55,9 @@ python3 python 両方で実行してみる。
 gpio readallの結果のスクリーンショット
 
 
+### 参考資料
+
+[(土壌センサー](https://wiki.seeedstudio.com/Grove-Moisture_Sensor/)
 
 
 
